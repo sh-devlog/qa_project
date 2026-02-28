@@ -29,3 +29,7 @@ Selenium Grid: 여러 환경에서 병렬 테스트 실행<br><br>
 => 페이지 열기<br><br>
 3. .click()<br>
 => 클릭<br><br>
+
+
+## Page Object Model (POM)
+페이지를 하나의 클래스(객체)로 만들어서 관리하는 설계 방식
